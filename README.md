@@ -2,7 +2,7 @@
 
 The capstone project for M.S. Data Science program included an opportunity to work with a client to identify a use case for data science and apply the appropriate skills and methodologies to help solve the problem.
 
-Working with Pharmacy leaders, a need for a tool to help understand the demand fluctuations for the Specialty Pharmacy at Freodtert Health was determined. This was done through an evaluation of sales volume within the Specialty Pharmacy and used as an indicator for staffing levels.
+Working with Pharmacy leaders, a need for a tool to help understand the demand fluctuations for the Specialty Pharmacy at Froedtert Health was determined. This was done through an evaluation of sales volume within the Specialty Pharmacy and used as an indicator for staffing levels.
 
 (Proprietary) data was collected and heavy scrutiny was placed on variable selection and exploratory data analysis.
 
